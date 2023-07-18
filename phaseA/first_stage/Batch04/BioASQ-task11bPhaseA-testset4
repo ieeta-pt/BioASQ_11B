@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "id": "63f57d9b33942b094c000004",
+      "type": "factoid",
+      "body": "Which amino acid in implicated in the Blue diaper syndrome?"
+    },
+    {
+      "id": "642f4aac57b1c7a315000015",
+      "type": "summary",
+      "body": "Explain the function of SOX9"
+    },
+    {
+      "id": "644ea20157b1c7a31500007a",
+      "type": "list",
+      "body": "What are the outcomes of ubiquitination?"
+    },
+    {
+      "id": "6440306357b1c7a315000046",
+      "type": "list",
+      "body": "What were the primary endpoints of the phase I/II double-blind, comparator-controlled trial of RT001 in Friedreich\u0027s ataxia patients?"
+    },
+    {
+      "id": "6450ec0c57b1c7a31500008f",
+      "type": "factoid",
+      "body": "What is the cause of Friedreich\u0027s Ataxia (FA)?"
+    },
+    {
+      "id": "63eee73ef36125a426000003",
+      "type": "list",
+      "body": "What causes Serpentine Supravenous Hyperpigmentation?"
+    },
+    {
+      "id": "644294b757b1c7a315000061",
+      "type": "summary",
+      "body": "Please summarize the relationship between a-syn and cell death."
+    },
+    {
+      "id": "644ef46557b1c7a315000083",
+      "type": "factoid",
+      "body": "What are positive cell-cycle regulators that can cause cancer when mutated called?"
+    },
+    {
+      "id": "6432fdd857b1c7a315000020",
+      "type": "factoid",
+      "body": "What is the inheritance pattern of hereditary angioedema?"
+    },
+    {
+      "id": "6450ede757b1c7a315000090",
+      "type": "factoid",
+      "body": "What is usually the onset age of Friedreich\u0027s Ataxia?"
+    },
+    {
+      "id": "63f03d58f36125a42600001f",
+      "type": "factoid",
+      "body": "What disease was the topic of the World Hip Trauma Evaluation (WHiTE) trial?"
+    },
+    {
+      "id": "6436953757b1c7a315000028",
+      "type": "yesno",
+      "body": "Is Functional Neurological Disorder (FND) classified as a psychosomatic disorder?"
+    },
+    {
+      "id": "645004fa57b1c7a31500008b",
+      "type": "yesno",
+      "body": "Are accessible enhancers necessarily active?"
+    },
+    {
+      "id": "644008a657b1c7a31500003f",
+      "type": "factoid",
+      "body": "What is the alternative name of RTA 408?"
+    },
+    {
+      "id": "644640de57b1c7a31500006b",
+      "type": "factoid",
+      "body": "What is the cause of Spinal Muscular Atrophy (SMA)?"
+    },
+    {
+      "id": "63eef9b6f36125a426000011",
+      "type": "yesno",
+      "body": "Is Prasinezumab effective for Parkinson’s Disease?"
+    },
+    {
+      "id": "6419cd02690f196b5100003a",
+      "type": "summary",
+      "body": "What are Luminopsins?"
+    },
+    {
+      "id": "644f0ca257b1c7a315000089",
+      "type": "list",
+      "body": "What are the hallmarks of cancer?"
+    },
+    {
+      "id": "64403a5857b1c7a31500004c",
+      "type": "factoid",
+      "body": "What was the phase of the clinical trial PEACHTREE?"
+    },
+    {
+      "id": "6446838957b1c7a31500006e",
+      "type": "list",
+      "body": "Which genes are related to Emery-Dreifuss Muscular Dystrophy (EDMD)?"
+    },
+    {
+      "id": "63f02e1bf36125a426000016",
+      "type": "yesno",
+      "body": "Was AAVS3 developed for hemophilia A?"
+    },
+    {
+      "id": "642f49db57b1c7a315000014",
+      "type": "list",
+      "body": "List the luciferase substrates"
+    },
+    {
+      "id": "645037e557b1c7a31500008c",
+      "type": "summary",
+      "body": "What are master regulatory genes?"
+    },
+    {
+      "id": "64402bb057b1c7a315000043",
+      "type": "factoid",
+      "body": "In what type of clinical trial has RT001 been evaluated against Friedreich\u0027s ataxia?"
+    },
+    {
+      "id": "6450bf2557b1c7a31500008d",
+      "type": "list",
+      "body": "Which are the known inflammatory myopathies?"
+    },
+    {
+      "id": "63eef8d6f36125a42600000f",
+      "type": "factoid",
+      "body": "L9LS was developed for which disease?"
+    },
+    {
+      "id": "6419d79c690f196b5100003b",
+      "type": "yesno",
+      "body": "Does iron regulate oligodendrocyte maturation?"
+    },
+    {
+      "id": "644ea46d57b1c7a31500007c",
+      "type": "summary",
+      "body": "What are genome-wide association studies (GWAS)?"
+    },
+    {
+      "id": "64121f44201352f04a000037",
+      "type": "factoid",
+      "body": "What does PROTACs stand for?"
+    },
+    {
+      "id": "6451029f57b1c7a315000094",
+      "type": "factoid",
+      "body": "What is the incidence of Leigh syndrome?"
+    },
+    {
+      "id": "64041260201352f04a000013",
+      "type": "list",
+      "body": "What are features of the The Trauma Triad of Death?"
+    },
+    {
+      "id": "6431f74057b1c7a31500001a",
+      "type": "summary",
+      "body": "What is a glossectomy?"
+    },
+    {
+      "id": "644eb55457b1c7a315000081",
+      "type": "list",
+      "body": "What are some examples of epigenetic modifications?"
+    },
+    {
+      "id": "6432f5f257b1c7a31500001c",
+      "type": "factoid",
+      "body": "What does Zanubrutinib inhibit?"
+    },
+    {
+      "id": "6450f02257b1c7a315000091",
+      "type": "list",
+      "body": "Which are the types of Friedreich\u0027s Ataxia based on onset age?"
+    },
+    {
+      "id": "6402bd7c201352f04a000006",
+      "type": "list",
+      "body": "Which drugs were tested in the FAKTION trial?"
+    },
+    {
+      "id": "64184949690f196b51000039",
+      "type": "summary",
+      "body": "Explain gene knock-down."
+    },
+    {
+      "id": "644ea41957b1c7a31500007b",
+      "type": "list",
+      "body": "What are the necessary steps for the transition from a precursor mRNA to a mature\nmRNA?"
+    },
+    {
+      "id": "6440420857b1c7a315000050",
+      "type": "factoid",
+      "body": "What is Apretude used for?"
+    },
+    {
+      "id": "64463a5057b1c7a315000064",
+      "type": "list",
+      "body": "What are the types of Spinal Muscular Atrophy?"
+    },
+    {
+      "id": "63eef4f5f36125a42600000b",
+      "type": "factoid",
+      "body": "What disease is treated with Ublituximab?"
+    },
+    {
+      "id": "640c842f201352f04a000025",
+      "type": "factoid",
+      "body": "What is Palmar Erythema?"
+    },
+    {
+      "id": "644efd5157b1c7a315000086",
+      "type": "yesno",
+      "body": "Are epigenetic changes heritable?"
+    },
+    {
+      "id": "6414c1d0690f196b51000004",
+      "type": "summary",
+      "body": "What is the treatment for trichotillomania?"
+    },
+    {
+      "id": "64468b0757b1c7a315000070",
+      "type": "factoid",
+      "body": "What is the cause of Oculopharyngeal Muscular Dystrophy (OPMD)?"
+    },
+    {
+      "id": "63f0494cf36125a426000028",
+      "type": "factoid",
+      "body": "Which viral disease can be treated with EDP-938?"
+    },
+    {
+      "id": "640ddbe9201352f04a000027",
+      "type": "factoid",
+      "body": "What is the generic name for Imfinzi?"
+    },
+    {
+      "id": "644e81fa57b1c7a315000079",
+      "type": "factoid",
+      "body": "What are negative cell-cycle regulators that can cause cancer when mutated called?"
+    },
+    {
+      "id": "6415c7fb690f196b51000016",
+      "type": "factoid",
+      "body": "When was Keytruda approved for the treatment of melanoma?"
+    },
+    {
+      "id": "64468e0d57b1c7a315000071",
+      "type": "factoid",
+      "body": "What is the incidence of Oculopharyngeal Muscular Dystrophy (OPMD)?"
+    },
+    {
+      "id": "64041355201352f04a000014",
+      "type": "list",
+      "body": "What are features of the Mackler’s Triad?"
+    },
+    {
+      "id": "641373fc201352f04a000040",
+      "type": "summary",
+      "body": "What is Tastin?"
+    },
+    {
+      "id": "644efd2c57b1c7a315000085",
+      "type": "yesno",
+      "body": "Do epigenetic changes change the DNA sequence?"
+    },
+    {
+      "id": "6433020c57b1c7a315000023",
+      "type": "summary",
+      "body": "What is Ruconest?"
+    },
+    {
+      "id": "6446ac0b57b1c7a315000072",
+      "type": "list",
+      "body": "Which are the motor neuron diseases?"
+    },
+    {
+      "id": "63f04716f36125a426000025",
+      "type": "factoid",
+      "body": "Donidalorsen was tested for which disease?"
+    },
+    {
+      "id": "641dc49b690f196b51000042",
+      "type": "list",
+      "body": "Treatment with plasma exchange (TPE) is used for what diseases"
+    },
+    {
+      "id": "644ec7fe57b1c7a315000082",
+      "type": "factoid",
+      "body": "What are the proteins that are necessary for the use of lactose in E. coli collectively called?"
+    },
+    {
+      "id": "63fa16d8201352f04a000002",
+      "type": "factoid",
+      "body": "Alternative microexon splicing is associated with metastasis in which cancer?"
+    },
+    {
+      "id": "6451034c57b1c7a315000095",
+      "type": "list",
+      "body": "How is Leigh syndrome inherited?"
+    },
+    {
+      "id": "61f901bd882a024a10000047",
+      "type": "list",
+      "body": "List features of the Zinner syndrome."
+    },
+    {
+      "id": "644f0a9757b1c7a315000088",
+      "type": "summary",
+      "body": "What is a regulon?"
+    },
+    {
+      "id": "6414c5ba690f196b51000007",
+      "type": "yesno",
+      "body": "Can skin picking phenotype present following methylphenidate treatment?"
+    },
+    {
+      "id": "6451060c57b1c7a315000096",
+      "type": "factoid",
+      "body": "What is the cause of spinal-bulbar muscular atrophy?"
+    },
+    {
+      "id": "61f7c904882a024a10000027",
+      "type": "factoid",
+      "body": "Which disease can be treated using Tezepelumab?"
+    },
+    {
+      "id": "644f0fd257b1c7a31500008a",
+      "type": "yesno",
+      "body": "Do enhancers have to be close to their gene targets?"
+    },
+    {
+      "id": "64463f9357b1c7a31500006a",
+      "type": "yesno",
+      "body": "Are there any other types of Spinal Muscular Atrophy except for types 1-4?"
+    },
+    {
+      "id": "63f749cf33942b094c00000a",
+      "type": "summary",
+      "body": "What is the mechanism of action of Zanidatamab?"
+    },
+    {
+      "id": "644eae9c57b1c7a315000080",
+      "type": "summary",
+      "body": "Describe the function of a transcription factor such as SOX10."
+    },
+    {
+      "id": "6450e67457b1c7a31500008e",
+      "type": "summary",
+      "body": "What is Friedreich\u0027s Ataxia?"
+    },
+    {
+      "id": "640418af201352f04a000018",
+      "type": "yesno",
+      "body": "Is Tilavonemab effective for progressive supranuclear palsy?"
+    },
+    {
+      "id": "644e7e4757b1c7a315000077",
+      "type": "summary",
+      "body": "What does the term \"homeotic transformation\" mean?"
+    },
+    {
+      "id": "64463cee57b1c7a315000065",
+      "type": "summary",
+      "body": "What is Spinal Muscular Atrophy?"
+    },
+    {
+      "id": "643df77457b1c7a31500003b",
+      "type": "list",
+      "body": "What factors are associated with severe COVID-19?"
+    },
+    {
+      "id": "641791ed690f196b51000032",
+      "type": "yesno",
+      "body": "Is SARS-CoV-2 transmitted through breast milk?"
+    },
+    {
+      "id": "644ef78f57b1c7a315000084",
+      "type": "factoid",
+      "body": "Chromatin is tightly packed into what structure inside the nucleus?"
+    },
+    {
+      "id": "644284a957b1c7a31500005c",
+      "type": "yesno",
+      "body": "Is there any treatment for the Facioscapulohumeral Muscular Dystrophy?"
+    },
+    {
+      "id": "644e7e5257b1c7a315000078",
+      "type": "summary",
+      "body": "What is the role of enhancers in cancer?"
+    },
+    {
+      "id": "6441371857b1c7a315000057",
+      "type": "list",
+      "body": "What are the currently used non-pharmacological measures for the management of procedural pain in neonates?"
+    },
+    {
+      "id": "644e642a57b1c7a315000075",
+      "type": "yesno",
+      "body": "Do all proteins start with methionine?"
+    },
+    {
+      "id": "6442810c57b1c7a31500005a",
+      "type": "list",
+      "body": "Which are the types of Facioscapulohumeral Muscular Dystrophy?"
+    },
+    {
+      "id": "644f057357b1c7a315000087",
+      "type": "list",
+      "body": "Which transcription factors are essential for the melanocyte lineage?"
+    },
+    {
+      "id": "644298cc57b1c7a315000062",
+      "type": "factoid",
+      "body": "What is the cause of Facioscapulohumeral Muscular Dystrophy type 2 (FSHD2)?"
+    },
+    {
+      "id": "6446c89e57b1c7a315000073",
+      "type": "summary",
+      "body": "What is Spinal-bulbar muscular atrophy (SBMA)?"
+    },
+    {
+      "id": "6417921b690f196b51000033",
+      "type": "list",
+      "body": "What are common symptoms in female carriers of DMD?"
+    },
+    {
+      "id": "6446caac57b1c7a315000074",
+      "type": "list",
+      "body": "Which are the types of Charcot-Marie-Tooth Disease (CMT)?"
+    },
+    {
+      "id": "6442933f57b1c7a315000060",
+      "type": "factoid",
+      "body": "What is the cause of Facioscapulohumeral Muscular Dystrophy type 1 (FSHD1)?"
+    },
+    {
+      "id": "6450f1b457b1c7a315000092",
+      "type": "summary",
+      "body": "What is Kearns-Sayre syndrome (KSS)?"
+    },
+    {
+      "id": "64178f76690f196b51000026",
+      "type": "summary",
+      "body": "What is golodirsen\u0027s mechanism of action?"
+    },
+    {
+      "id": "64467df857b1c7a31500006c",
+      "type": "summary",
+      "body": "What is Emery-Dreifuss Muscular Dystrophy (EDMD)?"
+    }
+  ]
+}
