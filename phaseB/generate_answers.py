@@ -1,8 +1,8 @@
 import os
 import sys
 
-import fire
-import gradio as gr
+#import fire
+#import gradio as gr
 import torch
 import transformers
 from peft import PeftModel
