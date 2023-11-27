@@ -37,9 +37,9 @@ echo "Preparing PhaseA second-stage virtual env"
 cd ../second_stage
 bash setup_secondstage.sh
 
-echo "Preparing PhaseB answer generation virtual env"
+#echo "Preparing PhaseB answer generation virtual env"
 # setup phaseB aka answer generation
-cd ../../phaseB
-bash setup.sh
+#cd ../../phaseB
+#bash setup.sh
 
 
